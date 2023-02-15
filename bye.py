@@ -1,3 +1,4 @@
 
-def bye_bye(name):
-    return print('bye bye ', name)
+def bye_bye(name, surname):
+
+    return print('bye bye ', name, surname)
