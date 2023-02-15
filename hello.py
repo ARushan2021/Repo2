@@ -4,6 +4,6 @@ import bye
 name = 'Chernosliv'
 print('Hello!')
 print('Hello World!')
-print(' ', name)
+print('особй хеллоу', name)
 
 bye.bye_bye(name)
