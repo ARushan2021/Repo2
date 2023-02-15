@@ -1,9 +1,9 @@
 import bye
 
 
+name = 'Chernosliv'
 print('Hello')
 print('Hello World')
-
-name = 'Chernosliv'
+print(' ', name)
 
 bye.bye_bye(name)
